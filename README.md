@@ -3,9 +3,26 @@
 Este repositório contém o código-fonte (Jupyter Notebook) utilizado para a análise de dados que subsidiou o artigo científico:
 
 - **Título**: Padrões de Mortalidade no Brasil: Uma Análise Exploratória por Sexo e Faixa Etária
-- **Status**: Aceito e publicado
-- **Evento**: II Congresso Nacional de Saúde Coletiva (II CONSAC)
-- **Área Temática**: AT01 – Saúde Pública
+
+**DADOS GERAIS**
+- **Digital Object Identifier (DOI®)**: 10.5281/zenodo.17794076
+- **País de publicação**: Brasil
+- **Meio de divulgação**: Meio digital
+- **Home page de publicação (URL)**: https://zenodo.org/records/17794076
+
+**DETALHAMENTO DO EVENTO**
+- **Classificação do evento**: Nacional.
+- **Nome do evento**: II Congresso Nacional de Saúde Coletiva (II CIECT).
+- **Ano**: 2025.
+
+**DETALHAMENTO DA PUBLICAÇÃO**
+- **Título dos anais do evento**: Anais do II Congresso Nacional de Saúde Coletiva (II CONSAC).
+- **Volume**: 1.
+- **ISBN**: 978-65-01-65696-0.
+- **Nome da responsável pelo evento**: Scienceduc Eventos.
+- **Cidade da editora**: Natal.
+- **Autores**: Amanda Ferreira Gomes, Carlos Eduardo de Melo Nunes Garcia.
+
 --------------------------------------
 ### 📘 Sobre o Projeto
 O estudo analisa padrões de mortalidade no Brasil utilizando dados oficiais do DATASUS (2022), com ênfase em sexo, faixa etária e capítulos do CID-10. <br> 
